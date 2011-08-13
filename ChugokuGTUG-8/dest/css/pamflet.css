@@ -1,0 +1,38 @@
+body {
+    font-size: 100%;
+    font-family: Georgia, serif;
+    padding: 0 1em;
+}
+h1,h2,h3,h4,h5, .title {
+    text-rendering: optimizeLegibility;
+}
+pre, code, tt {
+    font-family: monospace
+}
+div.title {
+    text-align: center;
+    font-size: 1.2em;
+    font-style: italic;
+    border-bottom: black solid 1px;
+}
+div.container {
+    position: relative;
+    background: white;
+    height: 100%;
+}
+div.contents {
+    padding-top: 2.5em;
+    background: white;
+}
+.current {
+    font-weight: bold;
+}
+ol.toc ol.toc {
+    list-style-type: lower-alpha;
+}
+ol.toc ol.toc ol.toc {
+    list-style-type: lower-roman;
+}
+a.page {
+    display: none;
+}
