@@ -1,0 +1,9 @@
+Pamfletの使い方
+---------------
+
+*Usage: pf [SRC] [DEST]*
+
+* *SRC* 以下のMarkdown文書を *DEST* 以下にPamfletのドキュメントとして出力
+* *SRC* は *PROJECT_ROOT/docs* がデフォルト
+* *DEST* を省略するとプレビューモードになり、ローカルサーバが立ち上がってリアルタイムに編集確認できる
+

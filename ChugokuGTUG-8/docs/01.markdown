@@ -3,9 +3,9 @@ Pamfletについて
 
 ### Pamfletって何？
 * パブリッシング用のアプリケーション
-* Scala製
+* [Scala](http://www.scala-lang.org/)製
 * OSSのユーザマニュアル利用を想定してるらしい
-* 各ドキュメントをMarkdown（軽量マークアップ言語の１つ）で記述
+* 各ドキュメントを[Markdown](http://ja.wikipedia.org/wiki/Markdown)（軽量マークアップ言語の１つ）で記述
 
 ### どんな特徴があるの？
 

@@ -1,6 +1,6 @@
 Pamflet使ってみた
 ==================
 
-2011/08/13(Sat)
 
+#### 2011/08/13(Sat)
 天領倉敷Scala/方向航続距離可変爆弾([@razon](https://twitter.com/#!/razon))

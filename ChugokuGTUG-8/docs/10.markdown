@@ -1,0 +1,16 @@
+おまけ
+------
+
+![天領倉敷Scala](img/tkscala_logo.png)
+
+* 来週(2011/08/20)やります！
+* Scalaに興味あったら（なくても）来てください！
+
+*[天領倉敷Scala](http://tenryo-kurashiki-scala.appspot.com/)
+*[天領倉敷Scala第6回勉強会 : ATND](http://atnd.org/events/17375)
+
+***
+
+* あと[@scalachan](https://twitter.com/#!/scalachan)をフォローするといいよ！
+
+![魔法少女Scalaちゃん](img/scalachan.jpg)
